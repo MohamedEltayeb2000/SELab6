@@ -1,0 +1,4 @@
+g1\entity\Patient.class
+g1\MyMain.class
+g1\dao\PatientDao.class
+g1\entity\MailingAddress.class
